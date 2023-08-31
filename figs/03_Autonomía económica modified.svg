@@ -5,8 +5,11 @@
    viewBox="0 0 974.406875 479.301688"
    width="974.406875pt"
    id="svg7220"
-   sodipodi:docname="03_Autonomía económica.svg"
+   sodipodi:docname="03_Autonomía económica modified.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   inkscape:export-filename="../3768f60f/03_Autonomía económica modified.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,8 +30,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.68903239"
-     inkscape:cx="452.8089"
-     inkscape:cy="406.36696"
+     inkscape:cx="52.247181"
+     inkscape:cy="512.31264"
      inkscape:window-width="1870"
      inkscape:window-height="951"
      inkscape:window-x="0"
@@ -3424,139 +3427,129 @@
     </g>
   </g>
   <g
-     id="g25585"
-     transform="translate(-77.978433)">
+     id="patch_92"
+     transform="translate(30.021567,0.795)">
+    <path
+       d="M 629.9975,466.372 H 649.9975 V 459.372 H 629.9975 Z"
+       style="opacity:0.9;fill:#d3d3e0;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
+       id="path7186" />
+  </g>
+  <g
+     id="text_51"
+     transform="translate(30.021567,-3.125e-4)">
+    <!-- No Pobreza -->
     <g
-       id="g25533">
-      <g
-         id="patch_92"
-         transform="translate(108,0.795)">
-        <path
-           d="M 629.9975,466.372 H 649.9975 V 459.372 H 629.9975 Z"
-           style="opacity:0.9;fill:#d3d3e0;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
-           id="path7186" />
-      </g>
-      <g
-         id="text_51"
-         transform="translate(108,-3.125e-4)">
-        <!-- No Pobreza -->
-        <g
-           transform="matrix(0.1,0,0,-0.1,657.9975,466.372)"
-           id="g7209">
-          <use
-             xlink:href="#Archivo-Regular-4e"
-             id="use7189" />
-          <use
-             x="73.599991"
-             xlink:href="#Archivo-Regular-6f"
-             id="use7191" />
-          <use
-             x="130.59998"
-             xlink:href="#Archivo-Regular-20"
-             id="use7193" />
-          <use
-             x="151.49997"
-             xlink:href="#Archivo-Regular-50"
-             id="use7195" />
-          <use
-             x="217.99995"
-             xlink:href="#Archivo-Regular-6f"
-             id="use7197" />
-          <use
-             x="274.99994"
-             xlink:href="#Archivo-Regular-62"
-             id="use7199" />
-          <use
-             x="331.69995"
-             xlink:href="#Archivo-Regular-72"
-             id="use7201" />
-          <use
-             x="364.89993"
-             xlink:href="#Archivo-Regular-65"
-             id="use7203" />
-          <use
-             x="419.69992"
-             xlink:href="#Archivo-Regular-7a"
-             id="use7205" />
-          <use
-             x="469.49991"
-             xlink:href="#Archivo-Regular-61"
-             id="use7207" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g25552">
-      <g
-         id="line2d_34"
-         transform="translate(0,1.1656055)">
-        <g
-           id="g7099">
-          <use
-             style="fill:#ff9750;stroke:#ff9750"
-             x="316.01624"
-             xlink:href="#m258eab433d"
-             y="462.87201"
-             id="use7097" />
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stop-color:#000000"
-         x="400.65018"
-         y="466.74261"
-         id="text4801"><tspan
-           sodipodi:role="line"
-           id="tspan4799"
-           style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
-           x="400.56393"
-           y="466.74261">Uso del tiempo y oportunidades</tspan></text>
-    </g>
-    <g
-       id="g25545"
-       transform="translate(5.7608594)">
-      <g
-         id="patch_90"
-         transform="translate(31.5,1.1656147)">
-        <path
-           d="M 454.03812,466.372 H 474.03812 V 459.372 H 454.03812 Z"
-           style="opacity:0.9;fill:#8d9bff;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
-           id="path7143" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:round;stop-color:#000000"
-         x="549.39618"
-         y="466.74261"
-         id="text4801-3"><tspan
-           sodipodi:role="line"
-           id="tspan4799-6"
-           style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
-           x="549.30994"
-           y="466.74261">Jornada no paga</tspan></text>
-    </g>
-    <g
-       id="g25539"
-       transform="translate(5.0424704)">
-      <g
-         id="patch_91"
-         transform="translate(87,0.79531445)">
-        <path
-           d="M 522.72719,466.372 H 542.72719 V 459.372 H 522.72719 Z"
-           style="opacity:0.9;fill:#9fc1ad;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
-           id="path7155" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:round;stop-color:#000000"
-         x="674.07367"
-         y="466.37231"
-         id="text4801-3-7"><tspan
-           sodipodi:role="line"
-           id="tspan4799-6-5"
-           style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
-           x="673.98743"
-           y="466.37231">Ingresos propios</tspan></text>
+       transform="matrix(0.1,0,0,-0.1,657.9975,466.372)"
+       id="g7209">
+      <use
+         xlink:href="#Archivo-Regular-4e"
+         id="use7189" />
+      <use
+         x="73.599991"
+         xlink:href="#Archivo-Regular-6f"
+         id="use7191" />
+      <use
+         x="130.59998"
+         xlink:href="#Archivo-Regular-20"
+         id="use7193" />
+      <use
+         x="151.49997"
+         xlink:href="#Archivo-Regular-50"
+         id="use7195" />
+      <use
+         x="217.99995"
+         xlink:href="#Archivo-Regular-6f"
+         id="use7197" />
+      <use
+         x="274.99994"
+         xlink:href="#Archivo-Regular-62"
+         id="use7199" />
+      <use
+         x="331.69995"
+         xlink:href="#Archivo-Regular-72"
+         id="use7201" />
+      <use
+         x="364.89993"
+         xlink:href="#Archivo-Regular-65"
+         id="use7203" />
+      <use
+         x="419.69992"
+         xlink:href="#Archivo-Regular-7a"
+         id="use7205" />
+      <use
+         x="469.49991"
+         xlink:href="#Archivo-Regular-61"
+         id="use7207" />
     </g>
   </g>
+  <g
+     id="g25552"
+     transform="translate(-77.978433)">
+    <g
+       id="line2d_34"
+       transform="translate(0,1.1656055)">
+      <g
+         id="g7099">
+        <use
+           style="fill:#ff9750;stroke:#ff9750"
+           x="316.01624"
+           xlink:href="#m258eab433d"
+           y="462.87201"
+           id="use7097" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stop-color:#000000"
+       x="400.65018"
+       y="466.74261"
+       id="text4801"><tspan
+         sodipodi:role="line"
+         id="tspan4799"
+         style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="400.56393"
+         y="466.74261">Uso del tiempo y oportunidades</tspan></text>
+  </g>
+  <g
+     id="g25545"
+     transform="translate(-72.217574)">
+    <g
+       id="patch_90"
+       transform="translate(31.5,1.1656147)">
+      <path
+         d="M 454.03812,466.372 H 474.03812 V 459.372 H 454.03812 Z"
+         style="opacity:0.9;fill:#8d9bff;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
+         id="path7143" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:round;stop-color:#000000"
+       x="549.39618"
+       y="466.74261"
+       id="text4801-3"><tspan
+         sodipodi:role="line"
+         id="tspan4799-6"
+         style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+         x="549.30994"
+         y="466.74261">Jornada no paga</tspan></text>
+  </g>
+  <g
+     id="patch_91"
+     transform="translate(14.064037,0.79531445)">
+    <path
+       d="M 522.72719,466.372 H 542.72719 V 459.372 H 522.72719 Z"
+       style="opacity:0.9;fill:#9fc1ad;stroke:#f5f5f5;stroke-width:0.5;stroke-linejoin:miter"
+       id="path7155" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:10px;line-height:normal;font-family:Archivo;-inkscape-font-specification:Archivo;text-align:center;text-decoration-color:#000000;letter-spacing:-0.1725px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:round;stop-color:#000000"
+     x="601.1377"
+     y="466.37231"
+     id="text4801-3-7"><tspan
+       sodipodi:role="line"
+       id="tspan4799-6-5"
+       style="font-size:10px;fill:#000000;fill-opacity:1;stroke-width:0.749999"
+       x="601.05145"
+       y="466.37231">Ingresos propios</tspan></text>
 </svg>
