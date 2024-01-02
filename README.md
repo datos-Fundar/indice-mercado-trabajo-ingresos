@@ -13,9 +13,11 @@ Cada medida del ISIG utiliza indicadores construidos de manera sintética y agre
 
 Este repositorio contiene los archivos necesarios para el cálculo de la segunda edición del ISIG: el [Índice de Género, Trabajo e Ingresos](https://fund.ar/publicacion/indice-de-genero-trabajo-e-ingresos/) (IGTI). El IGTI, creado por primera vez, sistematiza la desigualdad económica de género a nivel provincial en Argentina, revelando las heterogeneidades entre las 24 jurisdicciones para trazar un perfil único de cada una.
 
-## Datos del indice agregado 
+## Datos del índice agregado 
 
-Los datos agregados y procesados de los indicadores y componentes del IGTI se definen de la siguiente manera y se incluyen en links 
+La arquitectura de este índice se basa en 7 indicadores agrupados en dos componentes. Estos dos componentes luego se agregan para constituir el Índice de Género, Trabajo e Ingresos (IGTI), que está disponible para cada una de las 24 jurisdicciones de Argentina.
+
+Los datos agregados y procesados de los indicadores y componentes del IGTI se definen de la siguiente manera y se incluyen en enlaces.
 
 ### Indicadores
 - La Actividad (A) se define como el cociente entre la tasa de actividad de mujeres y la tasa de actividad de varones, representado por la ecuación: $$\text{A} = \dfrac{\text{Tasa de actividad de mujeres}}{\text{Tasa de actividad de varones}}$$ Para acceder a las tasas de actividad correspondientes para varones y mujeres, junto con los ratios para las 24 jurisdicciones de Argentina consultar [este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/indicadores/01_ratio_actividad.csv)
@@ -28,11 +30,11 @@ Los datos agregados y procesados de los indicadores y componentes del IGTI se de
 - La No-pobreza en hogares con menores de 25 años según jefatura (NP) se define como el cociente entre la proporción de hogares no pobres con jefe femenino y la proporción de hogares no pobres con jefe masculino, representado por la ecuación: $$\text{NP} = \dfrac{\text{Proporción de hogares no pobres con jefe femenino}}{\text{Proporción de hogares no pobres con jefe masculino}}$$ Para acceder a los valores de NP correspondientes para varones y mujeres, junto con los ratios para las 24 jurisdicciones de Argentina consultar [este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/indicadores/07_ratio_hogares_no-pobres_jefatura.csv)
 
 ### Componentes 
-- El componente de Insercion laboral $(C_{IL})$ se define como como el cociente entre la suma de Actividad (A), Formalidad (F), Jornada laboral (JL) e Ingreso salarial (IS), dividida por 4, representado por la ecuación: $$\text{Insercion laboral }(C_{IL}) = \dfrac{(A + F + JL + IS)}{4}$$ Para acceder a los ratios correspondientes, consultar[este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/01_insercion_laboral.csv)
-- El componente de Uso del tiempo y oportunidades $(C_{UTO})$ se define como el cociente entre la suma de Jornada no paga (JNP), Ingresos propios en población inactiva (IPI) y No-pobreza en hogares con menores de 25 años según jefatura (NP), dividida por 3, representado por la ecuación: $$\text{Uso del tiempo y oportunidades }(C_{UTO}) = \dfrac{(JNP + IPI + NP)}{3}$$ Para acceder a los ratios correspondientes, consultar[este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/02_uso_del_tiempo_y_oportunidades.csv)
+- Inserción laboral $(C_{IL})$: representa el cociente entre la suma de los indicadores de Actividad (A), Formalidad (F), Jornada laboral (JL) e Ingreso salarial (IS), dividida por 4, según la ecuación: $$\text{Insercion laboral }(C_{IL}) = \dfrac{(A + F + JL + IS)}{4}$$ Para acceder a los ratios correspondientes, consultar[este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/01_insercion_laboral.csv)
+- Uso del tiempo y oportunidades $(C_{UTO})$: representa el cociente entre la suma de Jornada no paga (JNP), Ingresos propios en población inactiva (IPI) y No-pobreza en hogares con menores de 25 años según jefatura (NP), dividida por 3, según la ecuación: $$\text{Uso del tiempo y oportunidades }(C_{UTO}) = \dfrac{(JNP + IPI + NP)}{3}$$ Para acceder a los ratios correspondientes, consultar [este enlace](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/02_uso_del_tiempo_y_oportunidades.csv)
 
 ### Índice de Género, Trabajo e Ingresos
-- El IGTI se define como la raíz cuadrada del producto de Insercion laboral $(C_{IL})$ y Uso del tiempo y oportunidades $(C_{UTO})$, representado por la ecuación:  $$\text{IGTI} = \sqrt{(C_{IL}*C_{UTO})}$$[](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/01_indice_GTI.csv)
+- El IGTI se define como la raíz cuadrada del producto de Insercion laboral $(C_{IL})$ y Uso del tiempo y oportunidades $(C_{UTO})$, según la ecuación:  $$\text{IGTI} = \sqrt{(C_{IL}*C_{UTO})}$$ Consultar [aquí](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos/blob/main/data_output/componentes_e_indice/01_indice_GTI.csv) para acceder a los datos del IGTI
 
 ## Estructura del Repositorio
 
