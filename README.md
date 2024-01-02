@@ -15,7 +15,7 @@ Este repositorio contiene los archivos necesarios para el cálculo de la segunda
 
 ## Datos del índice agregado 
 
-La arquitectura de este índice se basa en 7 indicadores agrupados en dos componentes. Estos dos componentes luego se agregan para constituir el Índice de Género, Trabajo e Ingresos (IGTI), que está disponible para cada una de las 24 jurisdicciones de Argentina.
+La arquitectura de este índice se basa en 7 [indicadores](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos#indicadores) agrupados en dos [componentes](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos?tab=readme-ov-file#componentes). Estos dos componentes luego se agregan para constituir el [Índice de Género, Trabajo e Ingresos (IGTI)](https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos?tab=readme-ov-file#%C3%ADndice-de-g%C3%A9nero-trabajo-e-ingresos), que está disponible para cada una de las 24 jurisdicciones de Argentina.
 
 Los datos agregados y procesados de los indicadores y componentes del IGTI se definen de la siguiente manera y se incluyen en enlaces.
 
