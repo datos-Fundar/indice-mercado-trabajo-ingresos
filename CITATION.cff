@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2024-10-14"
+title: "Índice de Género, Trabajo e Ingresos"
+abstract: >-
+  La desigualdad de género ha adquirido una visibilidad pública sin precedentes en los últimos años, 
+  convirtiéndose en un elemento clave en la planificación del desarrollo del país. 
+  Reconociendo la complejidad estructural de este fenómeno y su desafío para la política pública, 
+  desde Fundar elaboramos un Índice de Género, Trabajo e Ingresos que por primera vez sistematiza 
+  la desigualdad económica de género a nivel provincial en Argentina, revelando las heterogeneidades 
+  entre las 24 jurisdicciones para trazar un perfil único de cada una de ellas.
+
+repository-code: "https://github.com/datos-Fundar/indice-mercado-trabajo-ingresos"
+url: "https://fund.ar/publicacion/indice-de-genero-trabajo-e-ingresos/"
+
+identifiers:
+  - description: "¿Cómo trabajan las mujeres en las provincias argentinas? Un Índice de Género, Trabajo e Ingresos"
+    type: doi
+    value: 10.5281/zenodo.13931798
+authors:
+  - given-names: "Daniela Belén"
+    family-names: "Risaro"
+    affiliation: "Fundar"
+    email: drisaro@fund.ar
+    
