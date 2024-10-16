@@ -2,8 +2,8 @@
 
 [![Índice de Género, Trabajo e Ingresos en Argentina](https://fund.ar/wp-content/uploads/2023/11/iStock-969271252-1.jpg)](https://fund.ar/publicacion/indice-de-genero-trabajo-e-ingresos/)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931798.svg)](https://doi.org/10.5281/zenodo.13931798)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 La desigualdad de género ha adquirido una visibilidad pública sin precedentes en los últimos años, convirtiéndose en un elemento clave en la planificación del desarrollo del país. Reconociendo la complejidad estructural de este fenómeno y su desafío para la política pública, desde [Fundar](https://fund.ar/) elaboramos un Índice Subnacional de Igualdad de Género (ISIG).
 
