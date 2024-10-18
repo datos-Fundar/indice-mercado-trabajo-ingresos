@@ -12,6 +12,7 @@ El ISIG aborda la desigualdad de género en las 24 jurisdicciones del país y co
 - **Trabajo e ingresos**
 - **Educación y oportunidades**
 - **Salud y protección**
+
 Cada medida del ISIG utiliza indicadores construidos de manera sintética y agregada para ofrecer una comprensión integral de la situación de género en cada provincia.
 
 Este repositorio contiene los archivos necesarios para el cálculo de la segunda edición del ISIG: el [Índice de Género, Trabajo e Ingresos](https://fund.ar/publicacion/indice-de-genero-trabajo-e-ingresos/) (IGTI). El IGTI, creado por primera vez, sistematiza la desigualdad económica de género a nivel provincial en Argentina, revelando las heterogeneidades entre las 24 jurisdicciones para trazar un perfil único de cada una.
